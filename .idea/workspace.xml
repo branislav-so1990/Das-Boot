@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="baab22b2-3762-41a7-b144-73c12e21a44f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="ProjectId" id="1j01eflnUtie2gp1luQv6jC3Cyz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/static" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/static" />
+      <recent name="$PROJECT_DIR$/src/fonts" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="baab22b2-3762-41a7-b144-73c12e21a44f" name="Default Changelist" comment="" />
+      <created>1602926291481</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602926291481</updated>
+      <workItem from="1602926292543" duration="820000" />
+      <workItem from="1602927124147" duration="15186000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="372" y="234" width="549" height="637" key="#CSS" timestamp="1602927212268">
+      <screen x="58" y="27" width="1862" height="1053" />
+    </state>
+    <state x="372" y="234" width="549" height="637" key="#CSS/58.27.1862.1053@58.27.1862.1053" timestamp="1602927212268" />
+    <state x="330" y="286" width="624" height="533" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1602927107557">
+      <screen x="58" y="27" width="1862" height="1053" />
+    </state>
+    <state x="330" y="286" width="624" height="533" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/58.27.1862.1053@58.27.1862.1053" timestamp="1602927107557" />
+    <state x="282" y="327" width="719" height="452" key="EditFileWatcherDialog" timestamp="1602928529136">
+      <screen x="58" y="27" width="1862" height="1053" />
+    </state>
+    <state x="282" y="327" width="719" height="452" key="EditFileWatcherDialog/58.27.1862.1053@58.27.1862.1053" timestamp="1602928529136" />
+    <state x="338" y="288" width="618" height="522" key="find.popup" timestamp="1602929585195">
+      <screen x="58" y="27" width="1862" height="1053" />
+    </state>
+    <state x="338" y="288" width="618" height="522" key="find.popup/58.27.1862.1053@58.27.1862.1053" timestamp="1602929585195" />
+    <state x="217" y="250" key="run.anything.popup" timestamp="1602951347606">
+      <screen x="58" y="27" width="1862" height="1053" />
+    </state>
+    <state x="217" y="250" key="run.anything.popup/58.27.1862.1053@58.27.1862.1053" timestamp="1602951347606" />
+  </component>
+</project>
