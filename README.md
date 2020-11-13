@@ -1,4 +1,4 @@
-# Fishing app
+# DasBoot app
 
 ## Framework7 CLI Options
 
